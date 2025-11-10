@@ -1,0 +1,5 @@
+GET -> Yeh request ko get krta hai jaise url me kuch type krenge /menu to ye menu option get krke tumhe dikhayega 
+       ye query string {req.query} ke form me rakhta hai agar data bhejenge to url me dikhega
+
+POST -> Yeh data bhejne ke kaam aata hai esse data secure form me bhej skte hai bina url me dikhaye yeh {req.body}
+        me data rakhta hai 
